@@ -14,18 +14,23 @@ creating a config file where database connection establish and connecting to mon
 
 // frontend  vite +react
 npm i 
+
 cd blog-application
+
 cd frontend
+
 npm run dev 
 
 //it will run at :
-
 http://localhost:5173/
 
 //backend 
 npm i
+
 cd blog-application
+
 cd backend 
+
 npm run dev 
 
 //point
